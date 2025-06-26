@@ -1,6 +1,6 @@
 # Nodejs app with mysql integration
 
-This is a simple app which connects nodejs app with mysql table. I have use ec2 instance for this scenario. 
+This is a simple app which connects nodejs app with mysql. I have use ec2 instance for this scenario. 
 
 ## Install docker on ec2 instace
 
